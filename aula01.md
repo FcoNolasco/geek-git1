@@ -1,0 +1,1 @@
+Este texto Direto é um parágrafo
