@@ -4,7 +4,11 @@
 
 Um ou dois parágrafos sobre o seu projeto e o que ele faz
 
+<<<<<<< HEAD
 ![](imagens/status4.jpg)
+=======
+![Smile](imagens/status4.jpg)
+>>>>>>> 66e018e65c78395fb6bdef71a2e660860a5fecc9
 
 ## Instalações
 Mac OS X & Linux
